@@ -1,0 +1,243 @@
+﻿order_id,order_date,region,category,product,units,unit_price,discount_pct,revenue,customer_type,satisfaction,returned,sales_channel
+ORD-0001,2025-10-01,West,Books,Python handbook,6,39.25,0,235.5,Business,4,No,Mobile app
+ORD-0002,2025-12-23,South,Outdoor,Daypack,7,72.5,15,431.38,Business,2,No,Mobile app
+ORD-0003,2025-10-27,South,Electronics,Wireless headphones,2,77.59,0,155.18,Returning,4,No,Web
+ORD-0004,2025-09-25,West,Electronics,Wireless headphones,3,77.53,0,232.59,Returning,4,No,Web
+ORD-0005,2025-10-04,West,Books,Design notes,8,28.39,5,215.76,Returning,1,Yes,Retail partner
+ORD-0006,2025-01-21,West,Outdoor,Camp lantern,7,47.0,0,329.0,Returning,3,No,Retail partner
+ORD-0007,2025-07-09,West,Electronics,USB-C hub,6,40.86,5,232.9,Business,4,No,Retail partner
+ORD-0008,2025-12-26,,Books,Design notes,5,25.34,15,107.69,New,5,Yes,Mobile app
+ORD-0009,2025-06-24,South,Outdoor,Daypack,5,73.44,5,348.84,Business,4,No,Web
+ORD-0010,2025-09-10,North,Outdoor,Daypack,7,72.23,15,429.77,Business,2,No,Web
+ORD-0011,2025-04-11,Central,Home,Coffee grinder,2,51.27,0,102.54,Returning,4,No,Retail partner
+ORD-0012,2025-05-30,East,Home,Desk lamp,7,33.79,20,189.22,New,5,No,Web
+ORD-0013,2025-12-10,South,Electronics,USB-C hub,4,45.26,15,153.88,Business,5,No,Web
+ORD-0014,2025-06-12,East,Outdoor,Daypack,2,71.88,10,129.38,Returning,1,No,Web
+ORD-0015,2025-10-26,North,Books,Python handbook,3,39.2,10,105.84,Business,3,No,Web
+ORD-0016,2025-11-27,Central,Electronics,Wireless headphones,7,79.46,0,556.22,Returning,1,No,Retail partner
+ORD-0017,2025-09-26,South,Home,Coffee grinder,5,57.93,15,246.2,Business,4,No,Web
+ORD-0018,2025-03-27,North,Electronics,Webcam,5,66.99,5,318.2,Business,3,No,Web
+ORD-0019,2025-11-17,North,Electronics,Wireless headphones,1,74.59,0,74.59,Business,3,No,Mobile app
+ORD-0020,2025-06-05,Central,Electronics,USB-C hub,4,42.59,0,170.36,New,5,No,Web
+ORD-0021,2025-08-03,Central,Electronics,Wireless headphones,7,74.85,15,445.36,Business,1,No,Web
+ORD-0022,2025-11-19,Central,Electronics,USB-C hub,6,41.77,5,238.09,Business,5,No,Web
+ORD-0023,2025-12-07,Central,Electronics,USB-C hub,5,42.98,10,193.41,Business,2,Yes,Web
+ORD-0024,2025-12-30,Central,Books,Design notes,1,27.46,20,21.97,Returning,2,Yes,Mobile app
+ORD-0025,2025-10-07,North,Home,Storage set,2,27.97,15,47.55,Returning,4,Yes,Mobile app
+ORD-0026,2025-06-29,East,Books,Design notes,7,26.77,0,187.39,New,5,Yes,Retail partner
+ORD-0027,2025-01-19,South,Home,Coffee grinder,5,54.28,20,217.12,New,1,No,Mobile app
+ORD-0028,2025-09-27,Central,Electronics,Webcam,6,69.02,0,414.12,Returning,1,No,Web
+ORD-0029,2025-09-05,Central,Outdoor,Water bottle,4,23.52,10,84.67,Business,3,No,Web
+ORD-0030,2025-04-03,Central,Books,Design notes,3,24.94,20,59.86,Business,1,No,Retail partner
+ORD-0031,2025-08-25,East,Home,Coffee grinder,7,56.01,15,333.26,Business,2,No,Web
+ORD-0032,2025-06-10,West,Electronics,Wireless headphones,7,84.54,10,532.6,Returning,,No,Mobile app
+ORD-0033,2025-10-02,East,Books,Data stories,7,30.96,5,205.88,Returning,2,Yes,Mobile app
+ORD-0034,2025-05-03,Central,Electronics,Wireless headphones,5,82.17,0,410.85,New,2,Yes,Web
+ORD-0035,2025-02-20,East,Home,Coffee grinder,7,57.3,5,381.04,New,3,No,Web
+ORD-0036,2025-04-30,West,Outdoor,Daypack,7,65.28,15,388.42,New,5,Yes,Retail partner
+ORD-0037,2025-06-15,North,Outdoor,Daypack,8,69.34,10,499.25,New,1,No,Mobile app
+ORD-0038,2025-12-22,South,Home,Storage set,1,30.46,10,27.41,Returning,1,Yes,Retail partner
+ORD-0039,2025-11-19,East,Outdoor,Daypack,4,67.16,0,268.64,Business,2,Yes,Web
+ORD-0040,2025-04-01,South,Books,Data stories,4,31.0,5,117.8,New,1,No,Web
+ORD-0041,2025-04-13,Central,Outdoor,Camp lantern,8,49.54,15,336.87,Business,4,No,Mobile app
+ORD-0042,2025-02-11,North,Outdoor,Water bottle,5,21.85,0,109.25,Returning,5,Yes,Mobile app
+ORD-0043,2025-10-26,Central,Home,Coffee grinder,8,56.92,0,455.36,Returning,5,No,Retail partner
+ORD-0044,2025-10-16,West,Home,Desk lamp,4,33.72,0,134.88,Returning,4,No,Mobile app
+ORD-0045,2025-07-23,East,Outdoor,Daypack,5,70.44,5,334.59,Returning,1,No,Web
+ORD-0046,2025-01-11,North,Books,Design notes,1,27.12,0,27.12,Returning,3,No,Mobile app
+ORD-0047,2025-10-09,West,Books,Design notes,3,26.23,0,78.69,Returning,1,No,Mobile app
+ORD-0048,2025-11-08,North,Outdoor,Water bottle,7,20.32,5,135.13,New,1,No,Retail partner
+ORD-0049,2025-10-03,East,Books,Design notes,8,26.4,15,179.52,New,3,Yes,Mobile app
+ORD-0050,2025-12-18,North,Outdoor,Water bottle,3,21.32,10,57.56,Returning,1,No,Retail partner
+ORD-0051,2025-08-12,Central,Outdoor,Water bottle,8,22.97,0,183.76,Business,3,No,Retail partner
+ORD-0052,2025-01-25,Central,Outdoor,Water bottle,8,21.48,20,137.47,New,4,No,Web
+ORD-0053,2025-11-03,Central,Electronics,USB-C hub,7,40.06,15,238.36,New,1,Yes,Retail partner
+ORD-0054,2025-09-11,South,Books,Design notes,5,27.15,5,128.96,New,4,No,Web
+ORD-0055,2025-01-07,South,Home,Desk lamp,1,34.05,15,28.94,New,2,No,Web
+ORD-0056,2025-09-02,North,Outdoor,Daypack,4,70.0,20,224.0,New,5,Yes,Retail partner
+ORD-0057,2025-08-24,East,Books,Data stories,6,31.7,10,171.18,Returning,2,No,Mobile app
+ORD-0058,2025-02-09,West,Books,Python handbook,1,37.88,0,37.88,New,3,Yes,Web
+ORD-0059,2025-10-24,West,Electronics,USB-C hub,1,44.34,15,37.69,New,1,No,Retail partner
+ORD-0060,2025-04-26,West,Electronics,Wireless headphones,8,83.29,0,666.32,Returning,1,No,Web
+ORD-0061,2025-08-24,Central,Outdoor,Water bottle,1,22.75,0,22.75,Returning,4,Yes,Web
+ORD-0062,2025-08-12,West,Books,Data stories,7,32.9,15,195.75,Returning,5,No,Web
+ORD-0063,2025-06-10,Central,Home,Coffee grinder,2,55.33,20,88.53,Returning,5,No,Mobile app
+ORD-0064,2025-05-28,East,Books,Design notes,4,25.17,5,95.65,Returning,3,Yes,Mobile app
+ORD-0065,2025-11-10,West,Electronics,Wireless headphones,7,75.68,5,503.27,Returning,2,No,Web
+ORD-0066,2025-04-06,South,Electronics,Wireless headphones,3,80.56,0,241.68,New,3,No,Retail partner
+ORD-0067,2025-12-24,South,Electronics,,1,65.62,0,65.62,Returning,5,Yes,Retail partner
+ORD-0068,2025-08-01,South,Electronics,Webcam,1,62.96,0,62.96,New,5,No,Mobile app
+ORD-0069,2025-08-10,South,Outdoor,Camp lantern,1,44.44,0,44.44,Returning,2,Yes,Web
+ORD-0070,2025-01-27,South,Home,Coffee grinder,5,54.67,0,273.35,Returning,2,No,Retail partner
+ORD-0071,2025-01-05,North,Books,Python handbook,1,36.58,0,36.58,Business,2,Yes,Web
+ORD-0072,2025-03-30,West,Electronics,Wireless headphones,6,82.7,5,471.39,New,2,No,Mobile app
+ORD-0073,2025-07-15,Central,Outdoor,Camp lantern,8,45.94,0,367.52,New,4,No,Retail partner
+ORD-0074,2025-11-08,West,Outdoor,Daypack,1,72.17,20,57.74,Returning,1,Yes,Retail partner
+ORD-0075,2025-12-02,North,Outdoor,Camp lantern,8,43.84,15,298.11,Returning,2,No,Mobile app
+ORD-0076,2025-03-04,East,Electronics,Webcam,2,60.3,0,120.6,Returning,3,No,Retail partner
+ORD-0077,2025-06-15,Central,Electronics,USB-C hub,2,41.63,10,74.93,New,2,No,Retail partner
+ORD-0078,2025-07-31,North,Electronics,Webcam,2,63.1,20,100.96,Business,3,Yes,Web
+ORD-0079,2025-05-21,South,Electronics,USB-C hub,3,39.27,10,106.03,New,5,No,Web
+ORD-0080,2025-10-22,South,Outdoor,Camp lantern,5,50.09,20,200.36,Returning,4,Yes,Mobile app
+ORD-0081,2025-01-31,East,Books,Design notes,2,28.07,10,50.53,Returning,3,No,Web
+ORD-0082,2025-09-09,West,Books,Design notes,4,25.97,0,103.88,Returning,3,No,Mobile app
+ORD-0083,2025-06-06,East,Home,Desk lamp,3,35.81,5,102.06,Business,5,No,Web
+ORD-0084,2025-08-25,South,Outdoor,Daypack,6,66.77,0,400.62,Business,1,No,Web
+ORD-0085,2025-05-09,North,Electronics,USB-C hub,7,41.21,0,288.47,New,2,No,Retail partner
+ORD-0086,2025-01-08,Central,Books,Python handbook,3,41.73,0,125.19,Business,1,No,Mobile app
+ORD-0087,2025-04-30,South,Books,Python handbook,4,39.32,5,149.42,Business,4,No,Mobile app
+ORD-0088,2025-05-12,Central,Outdoor,Daypack,1,71.24,0,71.24,New,1,No,Mobile app
+ORD-0089,2025-09-15,Central,Books,Design notes,8,27.65,0,221.2,Returning,5,No,Mobile app
+ORD-0090,2025-09-24,North,Home,Desk lamp,3,33.62,10,90.77,New,5,No,Web
+ORD-0091,2025-09-26,Central,Books,Data stories,7,30.71,10,193.47,Business,4,No,Mobile app
+ORD-0092,2025-05-16,South,Electronics,USB-C hub,6,40.01,10,216.05,Returning,2,No,Mobile app
+ORD-0093,2025-11-28,South,Books,Data stories,6,30.21,0,181.26,New,2,No,Retail partner
+ORD-0094,2025-09-13,West,Home,Desk lamp,3,37.7,15,96.14,New,5,Yes,Retail partner
+ORD-0095,2025-09-24,Central,Books,Design notes,4,27.84,0,111.36,New,3,No,Web
+ORD-0096,2025-12-29,South,Electronics,USB-C hub,3,42.45,0,127.35,Business,3,Yes,Mobile app
+ORD-0097,2025-09-01,West,Home,Storage set,1,27.01,0,27.01,Returning,1,Yes,Retail partner
+ORD-0098,2025-07-17,South,Books,Design notes,6,26.05,0,156.3,New,1,Yes,Retail partner
+ORD-0099,2025-03-13,North,Electronics,USB-C hub,7,45.49,0,318.43,New,1,No,Web
+ORD-0100,2025-01-04,South,Outdoor,Daypack,7,62.94,10,396.52,New,3,No,Web
+ORD-0101,2025-02-23,North,Outdoor,Camp lantern,2,47.36,0,94.72,Returning,3,No,Web
+ORD-0102,2025-08-20,West,Home,Storage set,2,30.95,15,52.61,Business,3,No,Retail partner
+ORD-0103,2025-01-31,South,Home,Desk lamp,6,32.7,0,9999.99,Returning,4,No,Mobile app
+ORD-0104,2025-12-01,East,Home,Desk lamp,6,33.78,10,182.41,Business,1,Yes,Mobile app
+ORD-0105,2025-10-04,South,Outdoor,Camp lantern,1,44.23,0,44.23,New,2,No,Web
+ORD-0106,2025-12-06,South,Books,Data stories,1,30.85,5,29.31,Business,5,No,Mobile app
+ORD-0107,2025-03-09,Central,Home,Desk lamp,2,34.05,10,61.29,Business,1,No,Web
+ORD-0108,2025-10-22,West,Books,Design notes,6,26.18,0,157.08,New,5,Yes,Retail partner
+ORD-0109,2025-11-27,West,Outdoor,Daypack,2,72.44,0,144.88,Business,5,Yes,Retail partner
+ORD-0110,2025-04-16,Central,Books,Python handbook,5,41.82,20,167.28,Business,4,No,Mobile app
+ORD-0111,2025-02-05,West,Books,Design notes,4,26.02,15,88.47,Returning,1,No,Web
+ORD-0112,2025-09-09,East,Outdoor,Water bottle,2,23.17,0,46.34,Business,4,No,Web
+ORD-0113,2025-03-31,Central,Electronics,Wireless headphones,6,80.04,0,480.24,New,1,No,Mobile app
+ORD-0114,2025-11-19,West,Home,Coffee grinder,1,52.47,20,41.98,Returning,3,No,Web
+ORD-0115,2025-12-14,West,Outdoor,Water bottle,1,22.62,10,20.36,Returning,4,No,Retail partner
+ORD-0116,2025-06-16,Central,Home,Storage set,6,29.21,0,175.26,Business,5,No,Web
+ORD-0117,2025-01-21,West,Books,Data stories,4,30.65,20,98.08,Business,1,No,Web
+ORD-0118,2025-03-09,Central,Home,Coffee grinder,7,51.38,0,359.66,Business,5,Yes,Retail partner
+ORD-0119,2025-08-31,West,Books,Design notes,2,25.48,0,50.96,Business,2,No,Web
+ORD-0120,2025-04-06,South,Outdoor,Daypack,3,62.94,20,151.06,New,2,No,Mobile app
+ORD-0121,2025-09-02,East,Electronics,Webcam,7,61.83,10,389.53,New,2,No,Web
+ORD-0122,2025-09-05,South,Electronics,Wireless headphones,1,84.51,0,84.51,Returning,1,Yes,Web
+ORD-0123,2025-09-02,Central,Books,Design notes,1,26.98,0,26.98,Returning,1,No,Mobile app
+ORD-0124,2025-10-02,South,Electronics,Wireless headphones,8,80.86,15,549.85,Business,5,No,Mobile app
+ORD-0125,2025-07-28,North,Outdoor,Camp lantern,6,45.77,10,247.16,Business,1,No,Mobile app
+ORD-0126,2025-11-02,East,Books,Data stories,2,33.29,20,53.26,New,5,No,Mobile app
+ORD-0127,2025-06-09,West,Electronics,Webcam,7,66.17,0,463.19,New,3,No,Web
+ORD-0128,2025-12-21,North,Electronics,Webcam,1,63.64,0,63.64,Business,2,No,Mobile app
+ORD-0129,2025-01-09,East,Outdoor,Camp lantern,5,48.93,20,195.72,Returning,4,No,Retail partner
+ORD-0130,2025-05-11,Central,Outdoor,Daypack,6,71.68,0,430.08,Business,4,No,Retail partner
+ORD-0131,2025-10-30,Central,Home,Storage set,1,29.66,0,29.66,Returning,5,Yes,Mobile app
+ORD-0132,2025-04-25,West,Outdoor,Water bottle,4,23.4,20,74.88,Returning,4,Yes,Mobile app
+ORD-0133,2025-10-29,South,Books,Design notes,7,26.34,5,175.16,New,1,Yes,Mobile app
+ORD-0134,2025-11-08,East,Books,Python handbook,4,37.65,0,150.6,Returning,3,Yes,Web
+ORD-0135,2025-03-15,Central,Books,Design notes,7,26.37,0,184.59,New,1,Yes,Mobile app
+ORD-0136,2025-06-24,West,Outdoor,Daypack,6,69.83,15,356.13,Business,2,No,Web
+ORD-0137,2025-08-24,Central,Home,Coffee grinder,1,51.05,20,40.84,Returning,3,No,Retail partner
+ORD-0138,2025-12-05,Central,Home,Desk lamp,3,34.18,15,87.16,New,3,No,Mobile app
+ORD-0139,2025-04-13,Central,Books,Design notes,7,27.25,5,181.21,Returning,2,No,Retail partner
+ORD-0140,2025-01-07,North,Electronics,Webcam,8,63.74,0,509.92,Business,5,Yes,Retail partner
+ORD-0141,2025-07-03,Central,Outdoor,Daypack,7,72.38,0,506.66,Business,5,Yes,Retail partner
+ORD-0142,2025-06-07,East,Home,Coffee grinder,1,54.47,5,51.75,Returning,1,Yes,Mobile app
+ORD-0143,2025-05-07,West,Home,Desk lamp,2,33.6,10,60.48,Returning,3,No,Mobile app
+ORD-0144,2025-08-23,North,Electronics,Wireless headphones,6,81.21,15,414.17,New,1,No,Retail partner
+ORD-0145,2025-11-15,North,Outdoor,Daypack,4,68.86,20,220.35,New,2,No,Retail partner
+ORD-0146,2025-01-22,West,Books,Design notes,8,27.03,5,205.43,New,2,No,Mobile app
+ORD-0147,2025-08-24,North,Home,Desk lamp,7,37.61,0,263.27,Business,3,No,Web
+ORD-0148,2025-03-08,North,Outdoor,Water bottle,4,21.41,20,68.51,Business,5,No,Mobile app
+ORD-0149,2025-08-28,East,Electronics,Webcam,6,65.32,5,372.32,New,5,No,Web
+ORD-0150,2025-09-30,North,Books,Design notes,6,27.9,10,150.66,Business,5,No,Mobile app
+ORD-0151,2025-12-28,North,Outdoor,Water bottle,2,23.65,0,47.3,Business,2,No,Retail partner
+ORD-0152,2025-06-11,West,Outdoor,Camp lantern,7,47.9,10,301.77,New,1,No,Mobile app
+ORD-0153,2025-09-12,West,Outdoor,Camp lantern,6,47.95,5,273.32,Returning,5,No,Retail partner
+ORD-0154,2025-05-26,North,Outdoor,Camp lantern,2,45.53,10,81.95,Returning,4,No,Retail partner
+ORD-0155,2025-06-25,South,Electronics,Webcam,2,65.33,5,124.13,Business,1,No,Web
+ORD-0156,2025-03-25,East,Outdoor,Daypack,6,69.12,0,414.72,Business,4,Yes,Web
+ORD-0157,2025-01-26,Central,Electronics,USB-C hub,2,39.28,0,78.56,New,5,No,Web
+ORD-0158,2025-01-17,Central,Outdoor,Daypack,5,69.89,0,349.45,New,3,No,Web
+ORD-0159,2025-12-23,North,Outdoor,Camp lantern,5,48.15,15,204.64,Returning,1,No,Mobile app
+ORD-0160,2025-02-18,North,Electronics,Webcam,4,67.24,15,228.62,Returning,4,No,Retail partner
+ORD-0161,2025-08-10,West,Outdoor,Water bottle,1,23.42,5,22.25,Business,5,No,Web
+ORD-0162,2025-10-30,South,Outdoor,Camp lantern,5,44.81,0,224.05,New,3,No,Web
+ORD-0163,2025-12-16,South,Home,Storage set,5,27.22,10,122.49,New,3,No,Web
+ORD-0164,2025-12-16,Central,Outdoor,Camp lantern,6,50.66,5,288.76,Business,3,No,Retail partner
+ORD-0165,2025-03-07,East,Home,Coffee grinder,4,55.68,0,222.72,Returning,4,No,Retail partner
+ORD-0166,2025-03-12,South,Outdoor,Water bottle,1,22.7,0,22.7,Business,3,No,Mobile app
+ORD-0167,2025-01-26,Central,Books,Data stories,2,31.69,20,50.7,Returning,2,No,Web
+ORD-0168,2025-05-07,North,Books,Data stories,1,31.64,0,31.64,Returning,2,Yes,Mobile app
+ORD-0169,2025-12-18,North,Outdoor,Daypack,8,69.57,5,528.73,New,3,No,Mobile app
+ORD-0170,2025-12-16,Central,Books,Data stories,1,31.43,15,26.72,Business,1,No,Web
+ORD-0171,2025-07-20,Central,Electronics,Webcam,4,61.72,0,246.88,New,1,No,Web
+ORD-0172,2025-12-02,West,Books,Python handbook,7,41.84,20,234.3,New,2,No,Web
+ORD-0173,2025-11-04,North,Books,Data stories,6,33.21,0,199.26,Business,3,Yes,Retail partner
+ORD-0174,2025-03-09,Central,Outdoor,Daypack,4,68.77,15,233.82,Business,5,No,Mobile app
+ORD-0175,2025-11-05,Central,Home,Desk lamp,2,32.95,20,52.72,Returning,2,No,Web
+ORD-0176,2025-07-29,West,Books,Data stories,7,31.57,15,187.84,Business,5,Yes,Web
+ORD-0177,2025-12-25,West,Books,Data stories,4,30.29,5,115.1,Business,5,No,Mobile app
+ORD-0178,2025-02-20,East,Electronics,USB-C hub,3,44.15,20,105.96,Returning,3,No,Web
+ORD-0179,2025-11-26,Central,Books,Design notes,1,25.07,20,20.06,New,3,No,Mobile app
+ORD-0180,2025-10-30,South,Home,Coffee grinder,2,50.74,0,101.48,Business,5,No,Retail partner
+ORD-0181,2025-12-22,West,Outdoor,Camp lantern,3,47.37,20,113.69,Business,3,No,Web
+ORD-0182,2025-02-17,East,Electronics,Webcam,3,66.18,5,188.61,Business,3,Yes,Mobile app
+ORD-0183,2025-12-07,East,Home,Coffee grinder,1,55.12,0,55.12,Business,3,No,Retail partner
+ORD-0184,2025-04-26,Central,Electronics,Wireless headphones,7,79.21,0,554.47,New,3,No,Retail partner
+ORD-0185,2025-03-31,South,Home,Coffee grinder,6,50.51,0,303.06,Business,3,No,Web
+ORD-0186,2025-12-28,South,Home,Coffee grinder,8,50.84,0,406.72,New,4,No,Web
+ORD-0187,2025-12-20,South,Home,Coffee grinder,6,57.46,5,327.52,Business,1,No,Mobile app
+ORD-0188,2025-05-26,West,Books,Data stories,3,31.66,0,94.98,New,3,Yes,Mobile app
+ORD-0189,2025-11-14,West,Outdoor,Daypack,8,71.62,0,572.96,Returning,4,No,Retail partner
+ORD-0190,2025-09-27,Central,Books,Python handbook,4,41.48,0,165.92,Business,3,No,Retail partner
+ORD-0191,2025-05-19,East,Home,Desk lamp,3,36.31,20,87.14,New,2,No,Retail partner
+ORD-0192,2025-04-04,North,Electronics,Webcam,6,64.65,20,310.32,New,2,No,Mobile app
+ORD-0193,2025-12-31,East,Home,Desk lamp,8,36.52,10,262.94,Returning,2,Yes,Retail partner
+ORD-0194,2025-11-03,South,Home,Coffee grinder,7,53.72,0,376.04,Business,5,No,Retail partner
+ORD-0195,2025-08-24,South,Electronics,Wireless headphones,8,81.79,20,523.46,Returning,4,No,Mobile app
+ORD-0196,2025-02-03,Central,Electronics,USB-C hub,2,40.84,10,73.51,Returning,3,No,Mobile app
+ORD-0197,2025-05-21,West,Outdoor,Camp lantern,5,44.91,0,224.55,Business,1,No,Web
+ORD-0198,2025-09-04,East,Outdoor,Camp lantern,5,45.47,15,193.25,Business,2,No,Retail partner
+ORD-0199,2025-11-16,Central,Outdoor,Camp lantern,3,43.59,5,124.23,Returning,1,No,Retail partner
+ORD-0200,2025-06-02,East,Outdoor,Daypack,2,70.03,0,140.06,Business,1,No,Mobile app
+ORD-0201,2025-08-08,South,Books,Data stories,7,29.6,10,186.48,Returning,2,No,Web
+ORD-0202,2025-02-06,Central,Home,Desk lamp,2,33.46,5,63.57,New,1,Yes,Mobile app
+ORD-0203,2025-03-16,Central,Outdoor,Daypack,7,67.31,15,400.49,Business,3,Yes,Mobile app
+ORD-0204,2025-08-25,Central,Books,Python handbook,7,41.19,5,273.91,New,5,No,Retail partner
+ORD-0205,2025-07-09,North,Home,Desk lamp,5,33.27,0,166.35,Returning,1,No,Web
+ORD-0206,2025-10-17,West,Home,Desk lamp,4,33.53,0,134.12,Business,1,No,Web
+ORD-0207,2025-04-05,West,Outdoor,Daypack,1,70.22,20,56.18,Returning,1,Yes,Retail partner
+ORD-0208,2025-10-09,West,Outdoor,Water bottle,6,23.63,15,120.51,New,2,No,Web
+ORD-0209,2025-07-01,North,Outdoor,Daypack,2,72.8,10,131.04,Business,1,No,Web
+ORD-0210,2025-07-29,North,Outdoor,Daypack,2,68.74,5,130.61,New,1,No,Retail partner
+ORD-0211,2025-06-01,East,Books,Python handbook,5,39.17,5,186.06,New,1,No,Mobile app
+ORD-0212,2025-07-02,South,Electronics,USB-C hub,2,39.53,5,75.11,New,5,No,Web
+ORD-0213,2025-01-14,East,Books,Python handbook,8,41.91,5,318.52,New,5,No,Mobile app
+ORD-0214,2025-05-11,East,Electronics,Webcam,4,65.19,0,260.76,Business,4,No,Retail partner
+ORD-0215,2025-05-24,West,Home,Storage set,3,26.89,5,76.64,Business,4,No,Retail partner
+ORD-0216,2025-01-04,South,Books,Python handbook,3,37.44,5,106.7,Business,2,No,Retail partner
+ORD-0217,2025-05-30,Central,Electronics,USB-C hub,3,39.46,0,118.38,New,4,Yes,Web
+ORD-0218,2025-03-22,East,Outdoor,Water bottle,6,21.77,0,130.62,Business,3,No,Retail partner
+ORD-0219,2025-05-31,North,Home,Desk lamp,4,35.41,0,141.64,New,1,Yes,Mobile app
+ORD-0220,2025-10-10,South,Books,Data stories,8,28.78,0,230.24,New,5,No,Retail partner
+ORD-0221,2025-06-13,East,Home,Storage set,6,28.97,15,147.75,Returning,5,No,Retail partner
+ORD-0222,2025-08-26,South,Books,Data stories,5,33.09,10,148.91,Returning,1,No,Retail partner
+ORD-0223,2025-08-06,East,Electronics,Wireless headphones,4,75.06,0,300.24,Returning,1,Yes,Mobile app
+ORD-0224,2025-07-22,South,Outdoor,Daypack,2,64.13,0,128.26,New,2,No,Web
+ORD-0225,2025-04-28,Central,Outdoor,Camp lantern,4,48.73,0,194.92,New,2,No,Web
+ORD-0226,2025-08-11,Central,Electronics,Webcam,6,68.36,15,348.64,New,4,No,Mobile app
+ORD-0227,2025-02-12,East,Electronics,Webcam,5,62.57,15,265.92,Returning,5,Yes,Web
+ORD-0228,2025-12-14,West,Books,Python handbook,7,40.01,20,224.06,New,3,No,Web
+ORD-0229,2025-03-13,South,Electronics,Webcam,7,65.1,10,410.13,Returning,5,No,Retail partner
+ORD-0230,2025-09-26,South,Outdoor,Camp lantern,3,45.98,20,110.35,Business,4,Yes,Mobile app
+ORD-0231,2025-06-06,North,Home,Coffee grinder,8,52.0,15,353.6,Returning,3,No,Mobile app
+ORD-0232,2025-12-20,South,Outdoor,Water bottle,1,22.45,0,22.45,New,3,Yes,Web
+ORD-0233,2025-11-09,North,Outdoor,Water bottle,3,21.82,20,52.37,New,5,Yes,Web
+ORD-0234,2025-10-06,North,Electronics,Wireless headphones,1,78.87,0,78.87,Business,4,No,Retail partner
+ORD-0235,2025-05-31,West,Electronics,USB-C hub,1,45.49,15,38.67,New,5,No,Mobile app
+ORD-0236,2025-08-28,North,Outdoor,Water bottle,6,21.05,10,113.67,New,5,Yes,Retail partner
+ORD-0237,2025-10-10,East,Home,Storage set,7,26.92,0,188.44,New,2,No,Web
+ORD-0238,2025-11-22,East,Books,Python handbook,4,41.45,5,157.51,Returning,4,No,Retail partner
+ORD-0239,2025-06-16,South,Electronics,Webcam,8,63.07,0,504.56,Returning,4,No,Mobile app
+ORD-0240,2025-10-27,East,Outdoor,Camp lantern,8,48.85,20,312.64,Returning,2,No,Mobile app
+ORD-0013,2025-12-10,South,Electronics,USB-C hub,4,45.26,15,153.88,Business,5,No,Web
+ORD-0013,2025-12-10,South,Electronics,USB-C hub,4,45.26,15,153.88,Business,5,No,Web

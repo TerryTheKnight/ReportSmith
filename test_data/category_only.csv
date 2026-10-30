@@ -1,0 +1,122 @@
+﻿department,priority,status,country,request_type
+Support,High,Open,Chile,Type 01
+Operations,Low,Open,India,Type 08
+Finance,Low,In progress,Canada,Type 16
+,Low,In progress,Kenya,Type 08
+Engineering,Normal,Open,India,Type 05
+Support,Urgent,In progress,Japan,Type 04
+Operations,High,Closed,Japan,Type 18
+Support,Urgent,In progress,Japan,Type 11
+Research,Urgent,Blocked,India,Type 06
+Support,High,Blocked,Kenya,Type 02
+People,High,Closed,Brazil,Type 15
+Engineering,Low,Closed,India,Type 10
+Support,Low,Open,Brazil,Type 08
+Engineering,Normal,In progress,Norway,Type 10
+Engineering,Low,In progress,India,Type 05
+Finance,Low,In progress,India,Type 15
+Operations,Urgent,In progress,Chile,Type 09
+,Urgent,Blocked,Norway,Type 11
+Finance,Low,In progress,India,Type 16
+Support,High,Closed,Kenya,Type 13
+Operations,Urgent,Blocked,Japan,Type 06
+Finance,High,In progress,Brazil,Type 10
+Operations,Low,Blocked,India,Type 11
+People,Urgent,Open,Japan,Type 11
+Finance,Urgent,Closed,Norway,Type 15
+Engineering,Normal,Open,Norway,Type 11
+Finance,Low,Closed,India,Type 13
+Operations,Low,In progress,Norway,Type 04
+Research,Urgent,In progress,Kenya,Type 16
+Operations,Low,Blocked,Canada,Type 10
+Support,Urgent,In progress,Brazil,Type 02
+Finance,Low,Closed,Japan,Type 03
+Support,Normal,In progress,Norway,Type 05
+Support,High,Open,Kenya,Type 08
+Finance,Low,Blocked,India,Type 11
+Finance,High,Blocked,Kenya,Type 17
+Research,Urgent,Open,Chile,Type 17
+Support,Normal,In progress,Canada,Type 08
+People,High,Open,Kenya,Type 06
+Support,Low,Blocked,Chile,Type 05
+Research,Normal,In progress,Canada,Type 02
+Research,Low,In progress,Norway,Type 03
+Finance,Urgent,Closed,Kenya,Type 08
+Engineering,Low,In progress,Japan,Type 09
+Support,Low,Closed,Canada,Type 09
+People,High,Closed,Chile,Type 10
+Engineering,Normal,In progress,Norway,Type 09
+People,High,Closed,Canada,Type 06
+,High,In progress,Japan,Type 12
+Finance,Urgent,In progress,Japan,Type 11
+Support,High,Open,Norway,Type 02
+People,High,Closed,India,Type 03
+Support,Urgent,Open,Canada,Type 08
+Support,Urgent,Closed,Chile,Type 11
+People,Urgent,Blocked,Japan,Type 13
+People,Urgent,Closed,Brazil,Type 10
+Finance,Low,In progress,Canada,Type 07
+Operations,Urgent,In progress,Japan,Type 11
+Operations,Urgent,Closed,Norway,Type 01
+Operations,Normal,In progress,Chile,Type 06
+Operations,High,Open,Chile,Type 13
+Engineering,Urgent,In progress,Japan,Type 13
+Research,Urgent,Closed,Norway,Type 03
+People,High,Closed,Chile,Type 05
+People,Normal,Closed,Brazil,Type 14
+Operations,High,Blocked,Japan,Type 03
+Research,Urgent,Closed,India,Type 09
+Support,Normal,Open,Chile,Type 02
+Operations,Low,Closed,Norway,Type 16
+Support,Normal,In progress,Kenya,Type 16
+Support,High,In progress,Brazil,Type 09
+Operations,Urgent,Blocked,Brazil,Type 09
+Engineering,Low,Blocked,Norway,Type 15
+Engineering,Low,Blocked,Chile,Type 10
+Finance,Low,Open,Japan,Type 16
+Operations,High,Closed,Brazil,Type 01
+Support,Low,Closed,Norway,Type 02
+Engineering,High,Blocked,Japan,Type 18
+Operations,Low,Open,Kenya,Type 11
+Research,Normal,Closed,Kenya,Type 03
+Operations,Normal,Closed,Japan,Type 09
+Finance,High,In progress,Kenya,Type 17
+Engineering,High,In progress,Brazil,Type 08
+Operations,High,In progress,India,Type 16
+Research,Normal,Open,Norway,Type 15
+Finance,High,Blocked,Chile,Type 03
+Finance,Urgent,Closed,Chile,Type 04
+Operations,High,Blocked,Brazil,Type 11
+People,Normal,Blocked,Brazil,Type 17
+Research,Urgent,Open,India,Type 09
+Research,Urgent,Open,Canada,Type 04
+Support,Low,Blocked,India,Type 03
+Operations,Low,Closed,Norway,Type 03
+Engineering,Normal,In progress,India,Type 08
+People,High,Closed,Chile,Type 07
+Research,Normal,In progress,Norway,Type 16
+Research,Normal,Open,Norway,Type 02
+Support,Low,Closed,Chile,Type 07
+Engineering,High,Closed,Kenya,Type 10
+Finance,High,Closed,Norway,Type 08
+Research,Low,Open,India,Type 16
+Research,Urgent,Open,Brazil,Type 17
+Research,Low,Blocked,Brazil,Type 10
+Operations,High,In progress,India,Type 01
+Operations,Urgent,Open,Kenya,Type 06
+Support,Urgent,Blocked,Japan,Type 02
+People,High,In progress,Brazil,Type 12
+People,Normal,In progress,Norway,Type 06
+People,High,Open,Brazil,Type 05
+People,Urgent,In progress,Chile,Type 01
+Operations,Urgent,Open,Canada,Type 11
+People,Low,Closed,Norway,Type 06
+Research,Low,In progress,Japan,Type 14
+Finance,Urgent,Blocked,India,Type 01
+Operations,Urgent,Blocked,Japan,Type 05
+Support,Urgent,Closed,Japan,Type 01
+Support,High,In progress,Brazil,Type 09
+Support,High,In progress,Kenya,Type 05
+Finance,Low,Closed,Brazil,Type 05
+Operations,Low,In progress,Norway,Type 10
+Operations,Low,Blocked,India,Type 11

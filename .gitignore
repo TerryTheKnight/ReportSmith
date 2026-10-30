@@ -1,0 +1,15 @@
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Test and editor files
+.pytest_cache/
+.coverage
+.vscode/
+.idea/
+
+# Local secrets
+.env
+.streamlit/secrets.toml
