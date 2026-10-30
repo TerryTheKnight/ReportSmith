@@ -1,74 +1,173 @@
 # ReportSmith
 
-ReportSmith turns a CSV or Excel spreadsheet into a quick, shareable data report. Upload a file to inspect its rows and columns, catch common data-quality issues, view descriptive statistics, explore a chart, and download the analyzed data or a standalone HTML report.
+**Turn spreadsheets into meaningful, shareable data reports.**
+
+ReportSmith is a Python-based data analysis and reporting application that transforms CSV and Excel spreadsheets into interactive data insights and downloadable HTML reports.
+
+Upload a dataset, inspect its structure, identify common data-quality issues, explore visualizations, and generate a standalone report — all through a simple Streamlit interface.
 
 ## Features
 
-- Reads CSV and Excel `.xlsx` files.
-- Previews the first 100 rows and shows each column's data type.
-- Flags missing values, duplicate rows, and columns with one distinct value.
-- Summarizes numeric columns with count, mean, standard deviation, minimum, and maximum.
-- Draws Matplotlib histograms with mean/median markers, category-count bars with counts and shares, aggregated line charts, and scatter plots with a trend line.
-- Adds a plain-language chart summary, suggests date columns first for trend charts, and lets users choose sum or average for repeated x-axis values.
-- Downloads the source data as CSV and a self-contained HTML report with an embedded chart.
-- Processes uploaded data in the app session; ReportSmith does not save uploads to disk.
+### Data Exploration
+- Import CSV and Excel (`.xlsx`) files.
+- Preview the first 100 rows of a dataset.
+- Inspect column names and data types.
+- Explore dataset dimensions and structure.
 
-## Requirements
+### Data Quality Analysis
+- Detect missing values.
+- Identify duplicate rows.
+- Flag columns containing only one distinct value.
+- Review common structural data-quality issues.
+
+### Statistical Analysis
+- Generate descriptive statistics for numerical columns.
+- Calculate count, mean, standard deviation, minimum, and maximum.
+- Identify potential date columns.
+
+### Data Visualization
+- Histograms with mean and median markers.
+- Category-count bar charts with counts and percentages.
+- Aggregated line charts.
+- Scatter plots with linear trend lines.
+- Plain-language chart summaries.
+
+### Report Generation
+- Download analyzed data as CSV.
+- Generate standalone HTML reports.
+- Embed charts directly into HTML reports.
+- Process uploaded files within the application session without saving uploads to disk.
+
+## Technology Stack
+
+| Technology | Purpose |
+|---|---|
+| Python | Core programming language |
+| Streamlit | Web application interface |
+| Pandas | Data processing and analysis |
+| NumPy | Numerical calculations |
+| Matplotlib | Data visualization |
+| OpenPyXL | Excel file support |
+| Unittest | Automated testing |
+
+## Project Structure
+
+```text
+ReportSmith/
+│
+├── app.py                  # Streamlit interface
+├── reportsmith.py          # Analysis and reporting engine
+├── requirements.txt        # Project dependencies
+├── generate_test_data.py   # Synthetic test-data generator
+├── sample.csv              # Example dataset
+│
+├── test_data/
+│   └── README.md           # Test dataset documentation
+│
+└── tests/
+    ├── test_reportsmith.py
+    └── test_sample_datasets.py
+```
+
+## Installation
+
+### Requirements
 
 - Python 3.11 or newer
 - Windows, macOS, or Linux
 
-## Run locally on Windows
+### Windows
 
-Open PowerShell in this folder and run:
+Clone the repository:
+
+```bash
+git clone https://github.com/TerryTheKnight/ReportSmith.git
+cd ReportSmith
+```
+
+Create a virtual environment:
 
 ```powershell
 python -m venv .venv
-.\.venv\Scripts\python.exe -m pip install -r requirements.txt
-.\.venv\Scripts\python.exe -m streamlit run app.py
 ```
 
-Then open the local address printed in the terminal. Upload `sample.csv` from the app's sidebar to try it.
+Install dependencies:
 
-### macOS or Linux
+```powershell
+.venv\Scripts\python.exe -m pip install -r requirements.txt
+```
+
+Run the application:
+
+```powershell
+.venv\Scripts\python.exe -m streamlit run app.py
+```
+
+Open the local URL displayed in your terminal.
+
+Upload `sample.csv` to explore the application.
+
+### macOS / Linux
 
 ```bash
+git clone https://github.com/TerryTheKnight/ReportSmith.git
+cd ReportSmith
+
 python3 -m venv .venv
 .venv/bin/python -m pip install -r requirements.txt
 .venv/bin/python -m streamlit run app.py
 ```
 
-## Run the tests
+## Running Tests
 
-```powershell
+Run the automated test suite:
+
+```bash
 python -m unittest discover -s tests -v
 ```
 
-## Project layout
+To regenerate the larger synthetic datasets:
 
-```text
-ReportSmith/
-├── app.py               # Streamlit user interface
-├── reportsmith.py       # File reading, analysis, charts, and HTML report
-├── requirements.txt     # Python packages
-├── sample.csv           # Example data with a duplicate and a missing value
-├── test_data/           # Larger synthetic datasets for manual testing
-└── tests/               # Unit tests for the analysis functions
+```bash
+python generate_test_data.py
 ```
 
-To regenerate the larger sample files, run `python generate_test_data.py` from this folder. See `test_data/README.md` for the scenarios covered by each file.
+See `test_data/README.md` for details about the included test scenarios.
 
-## Current scope
+## Current Limitations
 
-This is an educational analysis tool, not a replacement for validating data before making high-impact decisions. It reports common structural issues and summarizes numeric data; it does not infer what missing values mean, fix records automatically, or perform statistical significance testing. Excel `.xls` files are not supported yet.
+ReportSmith is an educational data-analysis tool, not a replacement for professional data validation or statistical review.
 
-## Next improvements
+Currently:
+- It identifies common structural data-quality issues but does not automatically repair records.
+- It does not determine the meaning of missing values.
+- It does not perform statistical significance testing.
+- Excel `.xls` files are not supported.
+- PDF report generation is not implemented.
 
-- Let the user choose an Excel worksheet.
-- Add downloadable PDF reports.
-- Add date-aware trends and category breakdown charts.
-- Add configurable rules for acceptable missing-value rates and duplicate detection.
+## Roadmap
+
+Planned improvements:
+
+- [ ] Excel worksheet selection.
+- [ ] Downloadable PDF reports.
+- [ ] More advanced date-aware visualizations.
+- [ ] Configurable data-quality validation rules.
+- [ ] More visualization options.
+- [ ] Expanded automated test coverage.
+
+## Privacy
+
+Uploaded datasets are processed within the application session. ReportSmith does not save uploaded files to disk.
+
+Avoid uploading confidential or sensitive datasets to any deployment unless its security and hosting configuration have been reviewed.
 
 ## License
 
-No license has been selected yet. Choose a license before accepting outside contributions or inviting reuse.
+No open-source license has been selected yet.
+
+A license should be added before granting others explicit permission to reuse, modify, or distribute the project.
+
+---
+
+**Built with Python, Streamlit, Pandas, NumPy, and Matplotlib.**
